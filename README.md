@@ -2,6 +2,8 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+Deployed Application: file:///Users/crislyn/urban-octo-telegram/Develop/index.html#search-engine-optimization
+
 ## Description
 HTML Semantics
 The purpose of this module is to refactor the starter code.
@@ -45,3 +47,7 @@ n/a
 Github: https://github.com/c-wrenn
 
 Email: crislynwren@yahoo.com
+
+##Screenshots
+![Front Page](image-1.png)
+![Front Page Bottom](image-2.png)
