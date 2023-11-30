@@ -10,7 +10,7 @@ The purpose of this module is to refactor the starter code.
 
 ## Usage
 
-1. Launch index.html in your browser
+Go to: https://c-wrenn.github.io/Unit-01-Assignments/
 
 ## License
 
@@ -40,8 +40,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Contributions
 If you would like to contribute to this project please either fork or clone the repository. Once you have cloned or forked the repository, you can begin making changes.
 
-## Tests
-n/a
 
 ## Questions
 Github: https://github.com/c-wrenn
@@ -49,5 +47,5 @@ Github: https://github.com/c-wrenn
 Email: crislynwren@yahoo.com
 
 ##Screenshots
-![Front Page](image-1.png)
-![Front Page Bottom](image-2.png)
+![Front Page](image-3.png)
+![Front Page Bottom](image-4.png)
